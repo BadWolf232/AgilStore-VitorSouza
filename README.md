@@ -8,5 +8,4 @@ Este é programa de Gerenciamento de Produtos para a Loja AgilStore, exercício 
 # Tecnologias Utilizadas:
 - Foi utilizado como linguagem o Python
 - Como editor de códigos o Visual Studio Code (VS Code)
-- Outra tecnologia utilizada foi o Copilot Free integrado ao VS code
   
